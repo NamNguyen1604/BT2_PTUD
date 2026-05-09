@@ -6,6 +6,8 @@ Deadline : 23h59 ngày 09 tháng 5 năm 2026.
 Ngày làm: 09/05/2026
 
 1. TỔ CHỨC CSDL CHO HỆ THỐNG QUẢN LÝ TIỆM CẦM ĐỒ
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2ebfae2-6d0f-4998-a1bb-e79bd1e6b0d3" />
+
 2. SỬ DỤNG DOCKER TRÊN UBUNTU ĐỂ:
 Tạo thư mục chứa dự án:
 <img width="597" height="37" alt="image" src="https://github.com/user-attachments/assets/ca08edfd-485e-4859-a719-a89d7cb26101" />
